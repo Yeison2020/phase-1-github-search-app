@@ -71,4 +71,6 @@ show all the repositories for that user.
   bar for this, but you may need to create a variable which stores what the
   current search type is (user or repo). The endpoint to search repositories by
   keyword is
+
+  
   [here](https://developer.github.com/v3/search/#search-repositories).
